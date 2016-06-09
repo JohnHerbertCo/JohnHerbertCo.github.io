@@ -115,6 +115,7 @@ aside {
   .navbar-default .navbar-header .navbar-brand:hover,
   .navbar-default .navbar-header .navbar-brand:focus {
     color: white;
+    background-color: white;
   }
   .navbar-default .nav > li > a,
   .navbar-default .nav > li > a:focus {
@@ -123,7 +124,7 @@ aside {
   .navbar-default .nav > li > a:hover,
   .navbar-default .nav > li > a:focus:hover {
     color: #5a9cff;
-    
+
   }
   .navbar-default.affix {
     background-color: white;
