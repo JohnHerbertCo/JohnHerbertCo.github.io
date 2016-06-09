@@ -453,7 +453,7 @@ hr.style-one {
     margin-top: 30px;
 }
 }
-@media (max-width: 769px) {
+@media (max-width: 767px) {
   header {
     
     margin-top: 20%;
