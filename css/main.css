@@ -8,7 +8,7 @@ html,
 body {
   height: 100%;
   width: 100%;
-  background-color: #f5fffa;
+  background-color: ghostwhite;
 }
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
@@ -107,7 +107,7 @@ aside {
 @media (min-width: 768px) {
   .navbar-default {
     background-color: transparent;
-    border-color: rgba(255, 255, 255, 0.3);
+    
   }
   .navbar-default .navbar-header .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
@@ -424,6 +424,7 @@ body {
 .team1{
   background-color: #5a9cff;
   color: white;
+  padding-bottom: 1%;
 }
 .suppliers2 p{
   color: #333;
@@ -463,4 +464,7 @@ hr.style-one {
   }
   .company{
     background-color: white;
+  }
+  #page-top{
+    margin-bottom: 40px;
   }
